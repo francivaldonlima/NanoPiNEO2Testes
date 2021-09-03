@@ -1,0 +1,10 @@
+[Unit]
+Description=Programa inicial 
+
+[Service]
+Type=simple
+ExecStart=python3 /home/francivaldo/luma.examples/examples/botao_03.py
+ExecStop=pkill -9 -f "python3 /home/francivaldo/luma.examples/examples/botao_03.py"
+
+[Install]
+WantedBy=multi-user.target
