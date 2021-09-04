@@ -22,8 +22,12 @@ Insira o cartão SD no slot, conecte um cabo à sua rede se possível ou um moni
 
 Faça login como: root Password: 1234. Em seguida, você será solicitado a alterar essa senha (configuração do teclado americano). Quando terminar, você será solicitado a criar uma conta de usuário normal para suas tarefas diárias::
 
-$ sudo usermod -a -G i2c,spi,gpio pi
-$ sudo apt install python3-dev python3-pip libfreetype6-dev libjpeg-dev build-essential
-$ sudo apt install libsdl-dev libportmidi-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev libsdl-image1.2-dev
+
+Installation instructions
+-------------------------
+
+  $ sudo usermod -a -G i2c,spi,gpio pi
+  $ sudo apt install python3-dev python3-pip libfreetype6-dev libjpeg-dev build-essential
+  $ sudo apt install libsdl-dev libportmidi-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev libsdl-image1.2-dev
   
  
