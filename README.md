@@ -25,3 +25,13 @@ Faça login como: root Password: 1234. Em seguida, você será solicitado a alte
   $ sudo usermod -a -G i2c,spi,gpio pi
   $ sudo apt install python3-dev python3-pip libfreetype6-dev libjpeg-dev build-essential
   $ sudo apt install libsdl-dev libportmidi-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev libsdl-image1.2-dev
+  
+  
+  Installation instructions
+-------------------------
+Assuming you are using a Raspberry Pi (running Debian Jessie or newer), follow the pre-requisites &
+instructions in the above repositories to wire up your display, then from a command-line::
+
+  $ sudo usermod -a -G i2c,spi,gpio pi
+  $ sudo apt install python3-dev python3-pip libfreetype6-dev libjpeg-dev build-essential
+  $ sudo apt install libsdl-dev libportmidi-dev libsdl-ttf2.0-dev libsdl-mixer1.2-dev libsdl-image1.2-dev
