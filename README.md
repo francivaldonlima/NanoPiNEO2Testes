@@ -20,7 +20,7 @@ Insira o cartão SD no slot, conecte um cabo à sua rede se possível ou um moni
 
 ## Login
 
-Faça login como: root Password: 1234. Em seguida, você será solicitado a alterar essa senha (configuração do teclado americano). Quando terminar, você será solicitado a criar uma conta de usuário normal para suas tarefas diárias.:
+Faça login como: root Password: 1234. Em seguida, você será solicitado a alterar essa senha (configuração do teclado americano). Quando terminar, você será solicitado a criar uma conta de usuário normal para suas tarefas diárias.::
 
 
   $ sudo usermod -a -G i2c,spi,gpio pi
