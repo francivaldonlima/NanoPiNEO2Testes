@@ -2,6 +2,8 @@
 
 Guia prático inicialização.
 
+  <img src="https://wiki.friendlyarm.com/wiki/images/3/3c/NanoHat_Oled1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ### downloads 
 
