@@ -2,7 +2,7 @@
 
 Guia prático inicialização.
 
-<img src="https://wiki.friendlyarm.com/wiki/images/3/3c/NanoHat_Oled1.png" alt="nanopi oled"><img src="https://wiki.friendlyarm.com/wiki/images/3/32/NanoHat_OLED_nanopi_NEO.jpg" alt="nanopioled">
+<img src="https://wiki.friendlyarm.com/wiki/images/3/3c/NanoHat_Oled1.png" alt="nanopi oled" width="500" height="600"><img src="https://wiki.friendlyarm.com/wiki/images/3/32/NanoHat_OLED_nanopi_NEO.jpg" alt="nanopioled" width="500" height="600">
 
 ### downloads 
 
