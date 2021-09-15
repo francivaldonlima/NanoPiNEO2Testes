@@ -2,7 +2,7 @@
 
 Guia prático inicialização.
 
-<img src="https://wiki.friendlyarm.com/wiki/images/3/3c/NanoHat_Oled1.png" alt="nanopi oled" width="300" height="300"><img src="https://wiki.friendlyarm.com/wiki/images/3/32/NanoHat_OLED_nanopi_NEO.jpg" alt="nanopioled" width="300" height="300"><img src="https://wlan-pi.github.io/wlanpi-documentation/images/neo2_bare.jpg" alt="nanopioled" width="356" height="300">
+<img src="https://wiki.friendlyarm.com/wiki/images/3/3c/NanoHat_Oled1.png" alt="nanopi oled" width="300" height="300"><img src="https://wiki.friendlyarm.com/wiki/images/3/32/NanoHat_OLED_nanopi_NEO.jpg" alt="nanopioled" width="300" height="300"><img src="https://wlan-pi.github.io/wlanpi-documentation/images/neo2_bare.jpg" alt="nanopioled" width="256" height="200">
 
 ### downloads 
 
