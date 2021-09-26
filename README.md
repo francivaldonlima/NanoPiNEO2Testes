@@ -16,7 +16,6 @@ Certifique-se de ter um cartão SD bom e confiável e uma fonte de alimentação
 
 ## Boot
 
-Resultados de tradução
 Insira o cartão SD no slot, conecte um cabo à sua rede se possível ou um monitor e alimente a placa. (Primeira) inicialização (com DHCP) leva até 35 segundos com um cartão SD classe 10. 
 
 ## Login
